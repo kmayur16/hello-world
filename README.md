@@ -1,2 +1,3 @@
 # hello-world
-repo
+Hi Humans,
+  Mayur here, i like React js and native.
